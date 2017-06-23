@@ -36,3 +36,5 @@ Versioning at this time is manual, performed by the author.
 ## Authors
 Emily Moses 
 
+## Acknowledgements
+This program was created in response to the Asymmetrik Programming challenge. 
