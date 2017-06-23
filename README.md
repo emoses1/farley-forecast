@@ -21,7 +21,7 @@ Open your console, and navigate to the directory where you would like this repo 
 When ready, copy the cloning link from Github and clone the repository to your local directory.
 open index.html in your web browser of choice, and you're there! Start clicking the buttons and trying the effects. 
 
-If for some reason, the cloning is not successful (say your vpn is acting up or your firewall is blocking Github, *gasp*) you may also download the project on your computer with the backup zip file provided by the author. If not provided, contact the code author. 
+If for some reason, the cloning is not successful (say your vpn is acting up or your firewall is blocking Github, *gasp*) you may also download the project on your computer from github or with the backup zip file provided by the author. If not provided, contact the code author. 
 
 ## Built With
 HTML5
