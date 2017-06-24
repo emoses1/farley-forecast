@@ -1,0 +1,85 @@
+/*
+author: Emily Moses
+project: Farley's Forecast, Asymmetrik Programming Challenge
+date: 6/23/17
+version: 1.0.0
+*/
+
+/*Start of Style Sheet*/
+
+body {
+  background-color: #efefef;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  align-content: center;
+  padding: 15px 100px;
+}
+/*HTML5 canvas tag styles*/
+canvas {
+  background-color: #000022; /*theme: blue*/
+  min-width: 400px;
+  max-width: 1200px;
+  min-height: 400px;
+  max-height: 800px;
+}
+
+h1 {
+color: #4F6272;
+}
+.square {
+  width: 400px;
+  height: auto;
+}
+
+.weather {
+  padding: 5px 10px;
+}
+.weatherbtn {
+  background-color: #9e3321; /*theme: red*/
+  color: #ffffff;
+  padding: 0 5px;
+}
+/*farley png key frames slide animation*/
+@keyframes slide {
+  0% {background-position: left;}
+  100% {background-position: right;}
+}
+.thunder {
+  background-image: url(../img/thunder.svg);
+}
+
+.hide {
+  background-image: url(../img/square.svg);
+}
+.ant {
+  background-image: url(../img/fireant3.svg);
+  background-repeat: repeat-x;
+}
+.farley {
+  padding: 50px;
+  position:absolute;
+animation: slide 8s  linear infinite;
+-moz-animation: slide 8s  linear infinite;
+-webkit-animation: slide 8s  linear infinite;
+}
+
+.pause {
+  position: fixed;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+@keyframes slide {
+  0%   {left:-25%;}
+	100% {left:100%;}
+}
+@-moz-keyframes slide
+{
+	0%   {left:-25%;}
+	100% {left:100%;}
+}
+@-webkit-keyframes slide
+{
+	0%   {left:-25%;}
+	100% {left:100%;}
+}

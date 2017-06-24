@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Farley's Forecast</title>
+  <link rel="stylesheet" href="src/main.css" />
+</head>
+<body>
+  <div id="sheep" class="farley">
+    <img src="img/farley_sm.png" />
+    <h1>Farley's Forecast</h1>
+  </div>
+  <div class="weather">
+     <button type="button" id="try" class="btn weatherbtn" onclick="flipFunct()">Try It!</button>
+     <button type="button" id="now" class="btn weatherbtn" onclick="antFunct()">Now This!</button>
+  </div>
+<div id="game">
+  <canvas id="game-canvas" class="rain" width="600" height="400">
+  Your browser does not support canvas.
+  </canvas>
+<div class="actions">
+   <button type="button" id="pause" class="btn js-play" onclick="pauseFunct()">Pause</button>
+</div>
+</div>
+<script src="src/main.js"></script>
+</body>
+</html>

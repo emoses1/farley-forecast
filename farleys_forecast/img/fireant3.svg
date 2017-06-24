@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25 25" style="enable-background:new 0 0 25 25;" xml:space="preserve">
+	 <defs>
+	 	 <style> <![CDATA[
+	 	 	@keyframes flash {
+			 	0%{ transform: translateX(200px); opacity:0;}
+        50%{ transform: translateX(10px); opacity:1; }
+        75%{ transform: translateX(0px); opacity:0.7;}
+        100%{ transform: translateX(-20px); opacity:0.9;}
+	 	 }
+	 	 	@-moz-keyframes flash {
+		 		0%{ -moz-transform: translateX(200px), opacity:0;}
+        50%{ -moz-transform: translateX(10px); opacity:1; }
+        75%{ -moz-transform: translateX(0px); opacity:0.7;}
+        100%{ -moz-transform:s translateX(-20px); opacity:0.9;}
+	 	 }
+	 	 @-webkit-keyframes flash {
+		 		0%{ -webkit-transform: translateX(200px); opacity:0;}
+        50%{ -webkit-transform: translateX(10px); opacity:1; }
+        75%{ -webkit-transform: translateX(0px); opacity:0.7;}
+        100%{ -webkit-transform: translateX(-20px); opacity:0.9;}
+	 	 }
+	 	 .anim-flash {
+	 	    -webkit-animation: flash 900ms infinite;
+	 	    -moz-animation: flash 900ms infinite;
+	 	     animation: flash 900ms infinite;
+	 	 }
+	 	 	 ]]>
+	  </style>
+	  </defs>
+<g id="fireAnt" class="anim-flash">
+	<g id="ant_1_" class="anim-flash">
+		<g id="body">
+			<g>
+
+					<ellipse transform="matrix(7.503965e-02 -0.9972 0.9972 7.503965e-02 -10.0485 28.2105)" style="fill:#BE1E2D;" cx="10.2" cy="19.5" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M10,22c-1.4-0.1-2.4-1.3-2.3-2.6C7.8,18,9,17,10.4,17.1s2.4,1.3,2.3,2.6
+					C12.5,21.1,11.4,22.1,10,22z M10.3,17.4c-1.2-0.1-2.2,0.8-2.3,2c-0.1,1.2,0.8,2.2,2,2.3c1.2,0.1,2.2-0.8,2.3-2
+					C12.4,18.5,11.5,17.5,10.3,17.4z"/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(7.503965e-02 -0.9972 0.9972 7.503965e-02 -9.5517 23.82)" style="fill:#BE1E2D;" cx="8.1" cy="17.1" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M7.9,19.5c-1.4-0.1-2.4-1.3-2.3-2.6c0.1-1.4,1.3-2.4,2.6-2.3s2.4,1.3,2.3,2.6
+					C10.4,18.6,9.2,19.6,7.9,19.5z M8.2,14.9c-1.2-0.1-2.2,0.8-2.3,2c-0.1,1.2,0.8,2.2,2,2.3c1.2,0.1,2.2-0.8,2.3-2
+					C10.3,16.1,9.4,15,8.2,14.9z"/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(7.503965e-02 -0.9972 0.9972 7.503965e-02 -10.4415 18.4235)" style="fill:#BE1E2D;" cx="4.7" cy="14.8" rx="2" ry="2"/>
+				<path style="fill:#F15A29;" d="M4.6,17c-1.2-0.1-2.1-1.1-2-2.3c0.1-1.2,1.1-2.1,2.3-2c1.2,0.1,2.1,1.1,2,2.3
+					C6.7,16.2,5.7,17.1,4.6,17z M4.8,13.1c-1-0.1-1.8,0.7-1.9,1.6s0.7,1.8,1.6,1.9c1,0.1,1.8-0.7,1.9-1.6C6.6,14,5.8,13.1,4.8,13.1z
+					"/>
+			</g>
+		</g>
+		<g id="antenna" class="anim-flash">
+			<g>
+				<polygon style="fill:#F15A29;" points="3.4,13.3 2.6,11.5 1.6,11.9 1.5,11.6 2.7,11 3.7,13.2 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="4.8,12.9 4.4,12.9 4.6,10.2 6.7,11 6.5,11.3 5,10.7 				"/>
+			</g>
+		</g>
+		<g id="legs" class="anim-flash">
+			<g>
+				<polygon style="fill:#F15A29;" points="3.9,19 3.5,19 3.6,18.3 5.7,16.7 5.9,17 3.9,18.5 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="5.6,21.1 5.3,20.9 5.7,20.3 5.9,18.2 6.2,18.2 6.1,20.4 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="6.3,22.1 6,22.1 6,21.4 8,20.3 8.2,20.6 6.3,21.6 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="9.1,24.4 8.9,24.2 9.7,23.5 9.3,21.8 9.7,21.7 10.1,23.6 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="ant_2_" class="anim-flash">
+		<g id="body_1_">
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -5.7235 15.7445)" style="fill:#BE1E2D;" cx="20.7" cy="16.4" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M22.2,18.4c-1.1,0.8-2.6,0.6-3.5-0.5s-0.6-2.6,0.5-3.5c1.1-0.8,2.6-0.6,3.5,0.5
+					S23.3,17.6,22.2,18.4z M19.4,14.7c-0.9,0.7-1.1,2-0.4,3c0.7,0.9,2,1.1,3,0.4c0.9-0.7,1.1-2,0.4-3C21.7,14.2,20.4,14,19.4,14.7z"
+					/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -6.0964 13.7193)" style="fill:#BE1E2D;" cx="17.5" cy="16" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M19,18c-1.1,0.8-2.6,0.6-3.5-0.5S14.9,14.8,16,14s2.6-0.6,3.5,0.5C20.3,15.6,20.1,17.1,19,18z
+					 M16.2,14.3c-0.9,0.7-1.1,2-0.4,3c0.7,0.9,2,1.1,3,0.4c0.9-0.7,1.1-2,0.4-3C18.5,13.8,17.1,13.6,16.2,14.3z"/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -7.2239 11.4333)" style="fill:#BE1E2D;" cx="13.5" cy="16.5" rx="2" ry="2"/>
+				<path style="fill:#F15A29;" d="M14.8,18.2c-0.9,0.7-2.3,0.5-3-0.4c-0.7-0.9-0.5-2.3,0.4-3c0.9-0.7,2.3-0.5,3,0.4
+					C15.9,16.2,15.7,17.5,14.8,18.2z M12.4,15.1c-0.8,0.6-0.9,1.7-0.4,2.5s1.7,0.9,2.5,0.4c0.8-0.6,0.9-1.7,0.4-2.5
+					C14.3,14.7,13.2,14.5,12.4,15.1z"/>
+			</g>
+		</g>
+		<g id="antenna_1_">
+			<g>
+				<polygon style="fill:#F15A29;" points="11.5,16.2 9.7,15.4 9.2,16.4 8.9,16.2 9.5,14.9 11.7,15.9 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="12.3,15 12,15.2 10.4,13 12.4,12.3 12.5,12.6 10.9,13.2 				"/>
+			</g>
+		</g>
+		<g id="legs_1_">
+			<g>
+				<polygon style="fill:#F15A29;" points="15.6,20.2 15.4,20.5 14.9,19.9 15.5,17.3 15.8,17.4 15.3,19.8 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="18.3,20.7 18,20.7 17.8,19.9 16.6,18.3 16.9,18 18.2,19.8 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="19.5,21 19.2,21.2 18.8,20.6 19.6,18.5 19.9,18.6 19.2,20.6 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="23.1,20.8 22.8,20.8 22.9,19.8 21.6,18.7 21.8,18.4 23.3,19.6 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="ant_3_" class="anim-flash">
+		<g id="body_2_">
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -0.7276 10.355)" style="fill:#BE1E2D;" cx="15.1" cy="6.3" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M16.6,8.2c-1.1,0.8-2.6,0.6-3.5-0.5c-0.8-1.1-0.6-2.6,0.5-3.5s2.6-0.6,3.5,0.5S17.7,7.4,16.6,8.2
+					z M13.9,4.6c-0.9,0.7-1.1,2-0.4,3c0.7,0.9,2,1.1,3,0.4c0.9-0.7,1.1-2,0.4-3C16.1,4.1,14.8,3.9,13.9,4.6z"/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -1.1005 8.3299)" style="fill:#BE1E2D;" cx="11.9" cy="5.8" rx="2.3" ry="2.3"/>
+				<path style="fill:#F15A29;" d="M13.4,7.8c-1.1,0.8-2.6,0.6-3.5-0.5s-0.6-2.6,0.5-3.5s2.6-0.6,3.5,0.5S14.5,7,13.4,7.8z
+					 M10.6,4.1c-0.9,0.7-1.1,2-0.4,3s2,1.1,3,0.4c0.9-0.7,1.1-2,0.4-3S11.6,3.4,10.6,4.1z"/>
+			</g>
+			<g>
+
+					<ellipse transform="matrix(0.7991 -0.6012 0.6012 0.7991 -2.2279 6.0438)" style="fill:#BE1E2D;" cx="7.9" cy="6.4" rx="2" ry="2"/>
+				<path style="fill:#F15A29;" d="M9.2,8.1c-0.9,0.7-2.3,0.5-3-0.4s-0.5-2.3,0.4-3s2.3-0.5,3,0.4C10.3,6,10.2,7.4,9.2,8.1z
+					 M6.9,4.9C6.1,5.5,5.9,6.6,6.5,7.4S8.2,8.4,9,7.8C9.8,7.2,10,6.1,9.4,5.3C8.8,4.5,7.6,4.3,6.9,4.9z"/>
+			</g>
+		</g>
+		<g id="antenna_2_">
+			<g>
+				<polygon style="fill:#F15A29;" points="6,6 4.1,5.2 3.6,6.2 3.3,6 3.9,4.8 6.1,5.7 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="6.7,4.8 6.4,5 4.8,2.9 6.8,2.2 6.9,2.5 5.4,3 				"/>
+			</g>
+		</g>
+		<g id="legs_2_">
+			<g>
+				<polygon style="fill:#F15A29;" points="10.1,10.1 9.8,10.3 9.3,9.7 9.9,7.2 10.2,7.2 9.7,9.6 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="12.7,10.5 12.4,10.5 12.3,9.8 11,8.1 11.3,7.9 12.6,9.6 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="13.9,10.8 13.7,11 13.2,10.4 14,8.3 14.3,8.4 13.6,10.4 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#F15A29;" points="17.6,10.7 17.2,10.6 17.4,9.6 16,8.6 16.2,8.3 17.8,9.4 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
