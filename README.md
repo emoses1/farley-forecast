@@ -3,7 +3,7 @@ Farley's official weather forecasting.
 
 Farley's Forecast is a fun take on weather forecasting and the type of weather experienced in Farley's home state, Maryland. If it's not raining, it's snowing (sometimes twice in the same week). Farley's Forecast uses the benefits of the html5 canvas tag, javascript and touch of css to get things going. It is cross browser compatible and truly an in browser 2d experience.
 
-In this 2d browser experience, the user can switch between the types of weather available, toggle between playing and pausing the animation or simply marvel at 2d Farley on his skateboard.
+In this 2d browser experience, the user can switch between the types of weather or natural circumstances available using the buttons, toggle between playing and pausing the animation or simply marvel at 2d Farley on his skateboard.
 
 
 ## Getting Started
@@ -34,6 +34,8 @@ Atom
 ## Versioning
 Version 1.0.0
 Versioning at this time is manual, performed by the author.
+
+Future versions may include extended JS capabilities using Easel.JS, greensockJS, or other extended libraries and more animations.
 
 ## Authors
 Emily Moses 
